@@ -72,14 +72,6 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 
 ---
 
-## 📊 GitHub Stats
-
-![Contribuições](https://github-readme-stats.vercel.app/api?username=luizrhossard&show_icons=true&theme=dark&include_all_commits=true)
-
-![Li<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20">uagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizrhossard&layout=compact&theme=dark)
-
----
-
 > 💡 **"Código limpo é código que será mantido. Sempre código com o futuro em mente."**
 
 --<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="15">
