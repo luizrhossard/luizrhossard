@@ -67,7 +67,7 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 
 ## 📫 Como me encontrar
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20">  [LinkedIn](www.linkedin.com/in/luiz-rhossard) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20">  [LinkedIn](https://linkedin.com/in/luiz-rhossard) 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20">  [GitHub](https://github.com/luizrhossard)
 
 ---
