@@ -1,10 +1,85 @@
-- 👋 Hi, I’m @luizrhossard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Olá! Sou Luiz Rhossard
 
-<!---
-luizrhossard/luizrhossard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Engenheiro de Computação | Full-Stack Developer | DevOps Enthusiast**
+
+Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas. Com experiência prática em **Laravel**, **Docker**, **VPS** e sistemas agrícolas, estou sempre buscando aprimorar minha expertise em arquitetura de software e DevOps.
+
+---
+
+## 🎯 Sobre mim
+
+- 💻 **Full-Stack Developer** especializado em PHP/Laravel
+- 🐳 **DevOps** com experiência em Docker, Nginx e VPS (Hostinger)
+- 🌾 Desenvolvedor de sistemas agrícolas e portais de transparência municipal
+- 📚 Estudante contínuo de Java, padrões de design e boas práticas
+- 🥊 Apaixonado por boxe e fitness - disciplina também no código!
+- 🌍 Baseado em Pará, Brasil
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Frontend & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+### Qualidade & Versionamento
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=phpunit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 💼 Projetos Destacados
+
+**Sistema de Agricultura** - Plataforma completa para gestão de dados agrícolas com API REST e interface responsiva
+
+**Portais de Transparência Municipal** - Sistemas de dados abertos para prefeituras, com relatórios dinâmicos
+
+**Customizações WordPress/Elementor** - Projetos frontend com foco em UX/UI e performance
+
+---
+
+## 📖 Estudando Atualmente
+
+- ☕ **Java** - Aprofundando conhecimento em OOP e Spring Framework
+- 🏗️ **Padrões de Design** - Aplicando SOLID e arquitetura limpa
+- 🧪 **Testing** - PHPUnit e técnicas de TDD
+- 📈 **Arquitetura de Software** - Escalabilidade e performance
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://linkedin.com/in/luizrhossard) 
+- 🐙 [GitHub](https://github.com/luizrhossard)
+- 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Contribuições](https://github-readme-stats.vercel.app/api?username=luizrhossard&show_icons=true&theme=dark&include_all_commits=true)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizrhossard&layout=compact&theme=dark)
+
+---
+
+> 💡 **"Código limpo é código que será mantido. Sempre código com o futuro em mente."**
+
+---
+
+*Último atualizado: Janeiro 2026*
