@@ -12,8 +12,7 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 - 🐳 **DevOps** com experiência em Docker, Nginx e VPS (Hostinger)
 - 🌾 Desenvolvedor de sistemas agrícolas e portais de transparência municipal
 - 📚 Estudante contínuo de Java, padrões de design e boas práticas
-- 🥊 Apaixonado por boxe e fitness - disciplina também no código!
-- 🌍 Baseado em Pará, Brasil
+[](url)- 🌍 Baseado em Pará, Brasil
 
 ---
 
@@ -24,6 +23,7 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -35,10 +35,12 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Qualidade & Versionamento
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=phpunit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
@@ -59,6 +61,7 @@ Sou um desenvolvedor apaixonado por criar soluções web escaláveis e robustas.
 - 🏗️ **Padrões de Design** - Aplicando SOLID e arquitetura limpa
 - 🧪 **Testing** - PHPUnit e técnicas de TDD
 - 📈 **Arquitetura de Software** - Escalabilidade e performance
+- - 🤖 **Automação com IA** - Integração de inteligência artificial em processos e sistemas
 
 ---
 
